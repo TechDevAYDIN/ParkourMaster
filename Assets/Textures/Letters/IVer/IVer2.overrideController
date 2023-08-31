@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IVer2
+  m_Controller: {fileID: 9100000, guid: bf8a5f0b9da515f4eac5c6531d1fb115, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 074dad178f98bcc43b3d8f9851d349df, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4923ce8f466d22c4b9628f8f50eb916a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9128e902fc660bb4c9dd3fccb02139a1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9c6244d99ac27c24782f2d8ec368a0ff, type: 2}
