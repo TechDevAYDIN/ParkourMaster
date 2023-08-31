@@ -1,3 +1,3 @@
-# SantaClausGame
+# Parkour Master
 
-This project is the last one I published last year. It is a game prototype that I made for an advertising test. This project is not fully optimized and polished, as I had to finish it in a short time. Therefore, some bugs and glitches may occur during the gameplay. Also, some of the models I used are paid assets, so I only shared the script files on GitHub.
+This project is a personal experiment that I made to improve my skills and try different things. The project is about creating a ghost effect on 3D objects and making some UI animations. The ghost effect is achieved by using a shader that renders the object’s previous positions with transparency and color. The UI animations are made by using the Unity Animator component and some scripts. The project is not well organized and optimized, as I focused more on the learning process than the final result. Therefore, the project may have some performance issues and errors. You can download the project files from GitHub and see how I implemented the ghost effect and the UI animations.
